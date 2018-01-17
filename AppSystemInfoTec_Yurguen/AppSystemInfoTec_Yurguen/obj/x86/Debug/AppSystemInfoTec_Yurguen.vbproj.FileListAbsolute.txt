@@ -1,0 +1,11 @@
+C:\Users\CETACH2\AppData\Local\Temporary Projects\AppSystemInfoTec_Yurguen\bin\Debug\AppSystemInfoTec_Yurguen.exe
+C:\Users\CETACH2\AppData\Local\Temporary Projects\AppSystemInfoTec_Yurguen\bin\Debug\AppSystemInfoTec_Yurguen.pdb
+C:\Users\CETACH2\AppData\Local\Temporary Projects\AppSystemInfoTec_Yurguen\bin\Debug\AppSystemInfoTec_Yurguen.xml
+C:\Users\CETACH2\AppData\Local\Temporary Projects\AppSystemInfoTec_Yurguen\obj\x86\Debug\AppSystemInfoTec_Yurguen.Resources.resources
+C:\Users\CETACH2\AppData\Local\Temporary Projects\AppSystemInfoTec_Yurguen\obj\x86\Debug\AppSystemInfoTec_Yurguen.vbproj.GenerateResource.Cache
+C:\Users\CETACH2\AppData\Local\Temporary Projects\AppSystemInfoTec_Yurguen\obj\x86\Debug\AppSystemInfoTec_Yurguen.exe
+C:\Users\CETACH2\AppData\Local\Temporary Projects\AppSystemInfoTec_Yurguen\obj\x86\Debug\AppSystemInfoTec_Yurguen.xml
+C:\Users\CETACH2\AppData\Local\Temporary Projects\AppSystemInfoTec_Yurguen\obj\x86\Debug\AppSystemInfoTec_Yurguen.pdb
+C:\xampp\htdocs\Ejercicio1\AppSystemInfoTec_Yurguen\AppSystemInfoTec_Yurguen\obj\x86\Debug\AppSystemInfoTec_Yurguen.exe
+C:\xampp\htdocs\Ejercicio1\AppSystemInfoTec_Yurguen\AppSystemInfoTec_Yurguen\obj\x86\Debug\AppSystemInfoTec_Yurguen.xml
+C:\xampp\htdocs\Ejercicio1\AppSystemInfoTec_Yurguen\AppSystemInfoTec_Yurguen\obj\x86\Debug\AppSystemInfoTec_Yurguen.pdb
